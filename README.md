@@ -1,5 +1,5 @@
-# sorteador_1.0
-Sorteador
+# sorteador_1.0 :computer:
+Sorteador :computer:
 
 ![sorteador_diagrama_de_classes](https://user-images.githubusercontent.com/90734834/199295708-1ec36b2b-fead-40fc-92bd-45af9898fa91.PNG)
 
